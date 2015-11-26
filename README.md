@@ -10,10 +10,10 @@ Sublime Text must be installed into /Applications and must have the name "Sublim
 
 Keyboard schortcuts can be easily added for both services via the keyboard shortcut settings menu in OS X settings.
 
+![Shortcut Screenshot](https://raw.githubusercontent.com/mjdev/SublimeService/gh-pages/images/shortcuts.png)
+
 ## Installation
 
 Just copy the both directories (in Finder they are treated as a package / file) into ~/Library/Services
 
 `cp *.workflow /Library/Services`
-
-![Shortcut Screenshot](https://raw.githubusercontent.com/mjdev/SublimeService/gh-pages/images/shortcuts.png)
