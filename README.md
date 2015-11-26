@@ -15,3 +15,5 @@ Keyboard schortcuts can be easily added for both services via the keyboard short
 Just copy the both directories (in Finder they are treated as a package / file) into ~/Library/Services
 
 `cp *.workflow /Library/Services`
+
+![Shortcut Screenshot](https://raw.githubusercontent.com/mjdev/SublimeService/gh-pages/images/shortcuts.png)
